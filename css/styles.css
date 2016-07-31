@@ -82,7 +82,12 @@ nav a  {
   font-weight: 800;
   padding: 15px 0;
   margin: 6px 0;
+  transition: color .4s ease;
   color: #4d4d4d;
+}
+
+nav a:hover {
+  color: #0066cc;
 }
 
 .footer-col3 {
