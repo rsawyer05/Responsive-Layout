@@ -129,7 +129,7 @@ SKILLS
 
 .skills-wrapper {
   margin: 0 auto;
-  background-color: #f2f2f2;
+  background-color: #ccc;
   text-align: center;
 }
 
@@ -167,6 +167,11 @@ FOOTER
   padding-left: 15px;
   margin: 0;
   padding-bottom: 15px;
+}
+
+.phone a,
+.email a {
+  color: #808080;
 }
 
 .phone,
@@ -342,6 +347,10 @@ FOOTER
     float: left;
     padding-left: 5%;
     font-size: 1.1em;
+  }
+
+  .main-nav {
+    margin: 0;
   }
 
   .main-nav ul {
