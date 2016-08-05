@@ -24,6 +24,7 @@ p {
   padding: 0 5%;
   text-align: center;
   padding-bottom: 40px;
+  max-width: 1300px;
 }
 
 /*************************
@@ -49,7 +50,7 @@ h1 {
 }
 
 .bio-pic img {
-  max-width: 75%;
+  max-width: 255px;
   margin: 20px 0 10px;
 }
 
@@ -282,7 +283,7 @@ FOOTER
     float: left;
     width: 45%;
     margin: 2.4%;
-    max-height: 378px;
+    min-height: 450px;
   }
 
   /*************************
@@ -372,7 +373,7 @@ FOOTER
   }
 
   .wrapper p {
-    font-size: .7em;
+    font-size: 1.2em;
   }
 
   .wrapper div {
